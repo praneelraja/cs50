@@ -1,3 +1,5 @@
+//Needs dictionaries/large  
+//Usage  ./speller texts/lalaland.txt
 // Implements a spell-checker
 
 #include <ctype.h>
